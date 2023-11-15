@@ -2,8 +2,8 @@
 
 ### List Of Experiment
 
-1. Study of necessary header files with respect to socket programming.
-2. Study of Basic Functions of Socket Programming.
+1. Study of necessary header files with respect to socket programming. (theory)
+2. Study of Basic Functions of Socket Programming. (theory)
 3. Simple TCP/IP Client Server Communication.
 4. UDP Echo Client Server Communication.
 5. Concurrent TCP/IP Day-Time Server.
