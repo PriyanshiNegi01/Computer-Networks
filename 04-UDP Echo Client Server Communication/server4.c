@@ -4,7 +4,6 @@
 #include<sys/socket.h>
 #include<netinet/in.h>
 #include<unistd.h>
-// time
 #define MAXLINE 1024
 #define PORT 5035
 
@@ -29,7 +28,6 @@ int main(){
     addressLength = sizeof(clientAddress);
 
     number = recvfrom(socketDescriptor,message,MAXLINE,0,(struct sockaddr*)&clientAddress,&addressLength);
-
     printf("\n Client's Message: %s ",message);
 
     if(number<6)
