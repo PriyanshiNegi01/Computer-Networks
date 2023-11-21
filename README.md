@@ -15,7 +15,7 @@
  
 #### (Cisco Packet Tracer)
 11. Study of IPV6 Addressing & Subnetting
-12. Study of IPV6 Addressing & Subnetting
+12. Implementation of Network Address Translation (NAT)
 13. Implementation of VPN
 14. Communication Using HDLC
 15. Communication Using PPP
