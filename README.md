@@ -1,5 +1,5 @@
 # Computer-Networks
-
+This repository consists codes of some of the lab experiments performed.
 ### List Of Experiment
 
 1. Study of necessary header files with respect to socket programming. (theory)
